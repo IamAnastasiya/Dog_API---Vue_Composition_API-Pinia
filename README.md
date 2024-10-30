@@ -30,4 +30,4 @@ see images, that were previously voted for on likes/dislikes/favorites pages (li
 search for breed  (https://dog-api-vue-composition-api-pinia.vercel.app/search?breed=husk)
 
 ## Deploy on Vercel
-You can visit the page on: https://dog-api-vue-composition-api-pinia.vercel.app/ 
+You can visit the page on Vercel:  https://dog-api-vue-composition-api-pinia-4nn7.vercel.app/
